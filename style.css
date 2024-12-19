@@ -1,0 +1,10 @@
+img{ width:400px; height: 400px; margin: 40px; box-shadow: 0 0 10px 10px orange;}
+body{background-color: black; color: salmon; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+span{color: orange;}
+li{font-size: 3cap;}
+button{ background-color: orange; width:100%; height: 50px;font-size: 3cap; font-weight:bolder;}
+.div-one{display: flex; flex-direction:row;}
+.div-two{padding:10% 0;}
+.div-three{padding:5% 10% 10% 10% ; font-size: 4cap; border: 3px solid orange; box-shadow: 0 0 10px 10px orange; border-radius:20px;}
+.head-one{text-align: center; color:black; background-color: orange;}
+ol{text-align: center; list-style-type: none; }
